@@ -15,8 +15,7 @@ include "includes/response.inc.php";
 </head>
 <body>
     <?php 
-         $object = New Response("test data", 200, "application/jso");
-         var_dump($object);
+         
     ?>
 </body>
 </html>
